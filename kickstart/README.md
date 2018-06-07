@@ -1,4 +1,3 @@
-# Lottery Front End
+# Kickstarter Project with Ethereum 
 
-Second Tutorial on Ethereum, Front End 
-
+Last tutorial on Ethereum
